@@ -1,0 +1,11 @@
+package inheritancedemo;
+
+public class Phone {
+	int cost=5757;
+	void makeCalls() {
+		
+	}
+	public void sendSms() {
+		
+	}
+}

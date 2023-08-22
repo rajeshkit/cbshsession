@@ -1,0 +1,7 @@
+package customer;
+
+public class Product {
+	int calculateProductPrice(int noOfProducts,int unitPrice){
+		return noOfProducts*unitPrice;
+	}
+}

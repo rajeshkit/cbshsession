@@ -1,0 +1,16 @@
+
+public class Sponsers {
+//	public static void main(String[] args) {
+//		Player p=new Player();
+////		p.playerId=67657;
+////		p.playerName="Sachin";
+//		p.setPlayerId(15);
+//		p.setPlayerName("Sachin");
+//		Sponsers.display(p);
+//		
+//	}
+//	static void display(Player player) {
+//		System.out.println(player.getPlayerId());
+//		System.out.println(player.getPlayerName());
+//	}
+}

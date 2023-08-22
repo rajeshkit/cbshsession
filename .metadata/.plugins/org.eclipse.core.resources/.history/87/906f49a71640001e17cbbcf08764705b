@@ -1,0 +1,7 @@
+package abstractiondemo;
+
+public abstract class ChennaiOffice extends HeadOffice{
+
+	
+		
+}

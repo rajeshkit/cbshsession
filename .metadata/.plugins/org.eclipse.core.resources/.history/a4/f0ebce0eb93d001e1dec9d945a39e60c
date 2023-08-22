@@ -1,0 +1,13 @@
+
+public class Lic {
+	public long premiumCalculator(int planno,int age,int tenure,int maturity) {
+		long premium = tenure*maturity/100;
+		return premium;
+		
+	}
+	public long premiumCalculator(int planno,int age,int tenure,int maturity) {
+		long premium = tenure*maturity/100;
+		return premium;
+		
+	}
+}

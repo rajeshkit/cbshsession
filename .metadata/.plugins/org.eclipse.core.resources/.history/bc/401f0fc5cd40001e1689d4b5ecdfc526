@@ -1,0 +1,18 @@
+package interfaceasacontract;
+
+import java.util.ArrayList;
+
+public class Main {
+	public static void main(String[] args) {
+		InventoryImplementation iv=new InventoryImplementation();
+		Product pro=new Product(600, "Projector", 100000);
+		iv.addProduct()
+		ArrayList<Product> list=iv.getAllProducts();
+		for (Product product : list) {
+			System.out.println(product.getProductId()+" "
+						+product.getProductName()+"  "
+						+product.getPrice());
+		}
+	}
+
+}

@@ -1,0 +1,14 @@
+package inheritancedemo;
+
+public class SuvCar extends Car {
+	public SuvCar() {
+		// TODO Auto-generated constructor stub
+	}
+	public void diskBrakes() {
+		
+		
+	}
+	public static void main(String[] args) {
+		SuvCar s=new SuvCar();
+	}
+}

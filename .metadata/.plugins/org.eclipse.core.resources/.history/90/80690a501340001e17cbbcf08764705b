@@ -1,0 +1,12 @@
+package polymorphismdemo;
+
+import java.io.IOException;
+
+public class Area {
+	public final static int a=10;
+	public int findArea(int length, int bredth) { //overridden
+		return length*bredth; // implementation1
+	}
+	
+
+}

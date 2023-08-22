@@ -1,0 +1,12 @@
+package customer;
+
+import java.util.Scanner;
+
+public class Customer {
+	public static void main(String[] args) {
+		Scanner s=new Scanner(System.in);
+		int totalProducts = s.nextInt();
+		int price = s.nextInt();
+	}
+	
+}

@@ -1,0 +1,5 @@
+package in.hsbc.account;
+
+public class SavingAccount {
+
+}

@@ -1,0 +1,9 @@
+package abstractiondemo;
+
+public abstract  class HeadOffice {
+	public void registration() { //implemented or concerete method
+		
+	}
+	public abstract void proofVerification(String proofType);
+	//abstract method or unimplemented method 
+}

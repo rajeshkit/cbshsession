@@ -1,0 +1,13 @@
+
+public class Order {
+	void displayOrder() { // instance method or non static
+		
+	}
+	void show() { // instance method or non static
+		displayOrder();
+	}
+	public static void main(String[] args) { // static 
+		Order o1=new Order()
+		displayOrder();
+	}
+}

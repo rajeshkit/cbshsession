@@ -1,0 +1,43 @@
+package interfaceascontarct;
+
+public class InventoryImplementation implements Inventory {
+	static{
+		Product p1=new Product(100, "Tv", 10000);
+	}
+	@Override
+	public int addProduct(Product p) {
+		System.out.println("add a product");
+		return 0;
+	}
+
+	@Override
+	public Product findProductById(int productId) {
+		System.out.println("find a product by id");
+		return null;
+	}
+
+	@Override
+	public Product[] findByProductName(String productName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product updateProduct(Product p) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int deleteProductById(int productId) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public Product[] getAllProducts() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

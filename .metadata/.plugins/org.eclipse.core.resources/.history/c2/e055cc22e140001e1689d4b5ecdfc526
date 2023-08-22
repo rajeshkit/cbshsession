@@ -1,0 +1,11 @@
+package in.hsbc.model;
+
+public class Customer {
+	private int customerId;
+	private String customerName;
+	private int balance;
+	public Customer() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

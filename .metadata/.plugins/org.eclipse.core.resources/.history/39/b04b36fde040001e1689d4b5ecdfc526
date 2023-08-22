@@ -1,0 +1,5 @@
+package in.hsbc.service;
+
+public interface CustomerService {
+
+}

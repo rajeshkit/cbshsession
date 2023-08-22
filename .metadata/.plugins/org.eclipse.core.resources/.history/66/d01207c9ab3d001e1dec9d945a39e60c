@@ -1,0 +1,22 @@
+
+public class Trainee {
+	int traineeId;
+	String traineeName;
+	int phone;
+	static String companyName="HSBC";
+	void displayTrainee() {
+		System.out.println(traineeId);
+		System.out.println(traineeName);
+		System.out.println(phone);
+		Trainee.show();
+	}
+	static void show() {
+		
+	}
+	public static void main(String[] args) {
+		Trainee t1=new Trainee();
+		t1.displayTrainee();
+		Trainee.show();
+		
+	}
+}

@@ -1,0 +1,12 @@
+package abstractiondemo;
+
+public abstract  class HeadOffice {
+	public void registration() { //implemented or concerete method
+		System.out.println("Online registration");
+	}
+	public abstract void proofVerification(String proofType);
+	//abstract method or unimplemented method 
+	public static void main(String[] args) {
+		
+	}
+}

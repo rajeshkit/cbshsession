@@ -1,0 +1,10 @@
+package inheritancedemo;
+
+public class SmartPhone {
+	public void camera() {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,12 @@
+
+public class Order {
+	void displayOrder() { // instance method or non static
+		
+	}
+	void show() { // instance method or non static
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+}

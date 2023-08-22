@@ -1,0 +1,8 @@
+
+public class Player {
+	private int playerId=353;
+	private String playerName="Dhoni";
+	
+	
+
+}

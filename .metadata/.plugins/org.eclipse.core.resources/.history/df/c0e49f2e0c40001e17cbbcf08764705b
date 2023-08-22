@@ -1,0 +1,7 @@
+package polymorphismdemo;
+
+public class AreaDetails extends Area{
+	int findArea(int length, int bredth){
+		return length*bredth; // implementation1
+	}
+}

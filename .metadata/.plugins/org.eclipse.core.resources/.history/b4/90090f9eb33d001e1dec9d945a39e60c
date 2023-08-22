@@ -1,0 +1,7 @@
+
+public class Payment {
+	public void makePayment(String creditcard) {
+		
+	}
+
+}

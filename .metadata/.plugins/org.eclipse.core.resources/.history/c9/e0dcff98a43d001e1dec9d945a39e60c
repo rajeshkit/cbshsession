@@ -1,0 +1,13 @@
+
+public class Customer {
+	int aa; // instance variable
+	static int b; // static variable
+	void display() {
+		System.out.println(a);
+	}
+	public static void main(String[] args) {
+		int a=10; //local variable
+		System.out.println(a);
+	}
+
+}

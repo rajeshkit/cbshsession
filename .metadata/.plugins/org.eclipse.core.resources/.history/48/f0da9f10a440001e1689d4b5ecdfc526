@@ -1,0 +1,6 @@
+package abstractiondemo;
+
+public interface Human extends IHeadOffice,Runnable{
+	public void doTask();
+	public void sleep();
+}

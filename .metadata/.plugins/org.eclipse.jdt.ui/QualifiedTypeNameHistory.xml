@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="arraypassing.Cart"/>
+    <fullyQualifiedTypeName name="in.hsbc.account.SavingAccount"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="inheritancedemo.SmartPhone"/>
+    <fullyQualifiedTypeName name="demo.SmartPhone"/>
+    <fullyQualifiedTypeName name="inheritancedemo.SuvCar"/>
+    <fullyQualifiedTypeName name="polymorphismdemo.AreaDetails"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="polymorphismdemo.Area"/>
+    <fullyQualifiedTypeName name="abstractiondemo.ChennaiOffice"/>
+    <fullyQualifiedTypeName name="abstractiondemo.HeadOffice"/>
+    <fullyQualifiedTypeName name="abstractiondemo.Employee"/>
+    <fullyQualifiedTypeName name="abstractiondemo.Human"/>
+    <fullyQualifiedTypeName name="abstractiondemo.BangaloreOffice"/>
+    <fullyQualifiedTypeName name="abstractiondemo.Developer"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="abstractiondemo.IHeadOffice"/>
+    <fullyQualifiedTypeName name="interfaceascontarct.Inventory"/>
+    <fullyQualifiedTypeName name="interfaceascontarct.InventoryImplementation"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ArrayBlockingQueue"/>
+    <fullyQualifiedTypeName name="interfaceascontarct.School"/>
+    <fullyQualifiedTypeName name="interfaceascontarct.Product"/>
+    <fullyQualifiedTypeName name="interfaceasacontract.InventoryImplementation"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="interfaceasacontract.Product"/>
+    <fullyQualifiedTypeName name="in.hsbc.model.Customer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

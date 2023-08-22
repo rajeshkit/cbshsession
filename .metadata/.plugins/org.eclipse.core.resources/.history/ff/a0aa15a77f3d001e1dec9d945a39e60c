@@ -1,0 +1,16 @@
+package demo1;
+
+import java.util.Scanner;
+
+public class Sample {
+	public static void main(String args[]) {
+		Scanner s=new Scanner(System.in);
+		int p = s.nextInt();
+		int p = 4000;
+		int t = 2;
+		float roi = 4.0f; 
+		float emi = p * t * roi / 100;
+		System.out.println(emi);
+	}
+
+}

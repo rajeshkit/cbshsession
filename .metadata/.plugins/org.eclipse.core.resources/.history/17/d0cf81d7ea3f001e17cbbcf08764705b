@@ -1,0 +1,9 @@
+package in.hsbc.account;
+
+public class SavingAccount {
+	public int accountNumber=46466;
+	public String name="abc";
+	private void displayProfile() {
+		System.out.println("Profile displayed");
+	}
+}

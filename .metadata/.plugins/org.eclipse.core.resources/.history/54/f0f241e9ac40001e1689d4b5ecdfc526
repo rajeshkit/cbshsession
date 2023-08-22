@@ -1,0 +1,5 @@
+package interfaceascontarct;
+
+public interface Inventory {
+
+}

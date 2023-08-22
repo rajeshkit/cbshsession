@@ -1,0 +1,16 @@
+package demo1;
+
+public class Demo4 {
+	public int add(int no1,int no2) {
+		int total = no1 + no2; // task or logic adding two no's
+		return total;
+	}
+	public static void main(String[] args) {
+		Demo4 d=new Demo4();
+		int k = d.add(343,566);
+		k= k + 100 *3;
+		System.out.println("Welcome");
+		int result = Math.abs(55);
+		System.out.println(result);
+	}
+}

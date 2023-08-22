@@ -1,0 +1,10 @@
+
+public class Sponsers {
+	public static void main(String[] args) {
+		Player p=new Player();
+//		p.playerId=67657;
+//		p.playerName="Sachin";
+		System.out.println(p.playerId);
+		System.out.println(p.playerName);
+	}
+}

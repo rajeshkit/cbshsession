@@ -1,0 +1,19 @@
+
+public class Payment {
+	public void makePayment(String creditcard) {
+
+	}
+
+	public void makePayment(int cash) {
+
+	}
+
+	public void makePayment(float upi) {
+
+	}
+	public void makePayment(int accountNumber,int billAmount)
+	{
+		
+	}
+
+}

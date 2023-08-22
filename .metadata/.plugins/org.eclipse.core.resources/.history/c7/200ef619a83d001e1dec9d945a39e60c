@@ -1,0 +1,14 @@
+
+public class Order {
+	Order(){
+		System.out.println("constructor");
+	}
+	void displayOrder() { // instance method or non static
+		System.out.println("order");
+	}
+	
+	public static void main(String[] args) { // static 
+		Order o1=new Order();
+		o1.displayOrder(); // explicitly
+	}
+}

@@ -1,0 +1,16 @@
+
+public class Order {
+	Order(){  // function but it is special fn
+		System.out.println("Constructor with no arg");
+	}
+	void displayOrder() { // instance method or non static
+		
+	}
+	void show() { // instance method or non static
+		displayOrder();
+	}
+	public static void main(String[] args) { // static 
+		Order o1=new Order();
+		o1.displayOrder();
+	}
+}

@@ -1,0 +1,11 @@
+import java.util.Arrays;
+
+public class ArrayDemo {
+	public static void main(String[] args) {
+		int[] marks=new int[5];
+		String[] cities=new String[5];
+		
+		
+		
+	}
+}

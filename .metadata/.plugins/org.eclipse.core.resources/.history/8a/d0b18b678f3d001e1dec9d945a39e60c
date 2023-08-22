@@ -1,0 +1,11 @@
+package demo1;
+
+public class Demo4 {
+	public void add() {
+							// task or logic adding two no's
+		int no1=334;
+		int no2=686;
+		int total = no1 + no2;
+		System.out.println(total);
+	}
+}

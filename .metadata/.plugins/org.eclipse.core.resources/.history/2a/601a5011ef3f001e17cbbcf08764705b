@@ -1,0 +1,9 @@
+package in.hsbc.card;
+
+public class CreditCard {
+	public static void main(String[] args) {
+		String name="hsbc";//101010
+		String firstName="hsbc";
+		String lastName="hsbc";
+	}
+}

@@ -1,0 +1,11 @@
+package abstractiondemo;
+
+public class Hyderabad extends HeadOffice{
+
+	@Override
+	public void proofVerification(String proofType) {
+		System.out.println("Verification is done via:"+proofType);
+		
+	}
+
+}
