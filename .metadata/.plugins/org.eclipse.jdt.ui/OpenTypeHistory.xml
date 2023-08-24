@@ -2,6 +2,8 @@
 <typeInfoHistroy>
     <typeInfo handle="=interfaceascontarct/src&lt;interfaceascontarct{Inventory.java[Inventory" modifiers="513" timestamp="1692682188756"/>
     <typeInfo handle="=interfaceasacontract/src&lt;interfaceasacontract{Inventory.java[Inventory" modifiers="513" timestamp="1692694460719"/>
-    <typeInfo handle="=layeredarchitecture/src&lt;in.hsbc.service{CustomerService.java[CustomerService" modifiers="513" timestamp="1692704729299"/>
-    <typeInfo handle="=layeredarchitecture/src&lt;in.hsbc.dao{CustomerDao.java[CustomerDao" modifiers="513" timestamp="1692704947696"/>
+    <typeInfo handle="=layeredarchitecturehandson/src&lt;storage{Storage.java[Storage" modifiers="513" timestamp="1692770892022"/>
+    <typeInfo handle="=looslycoupled/src&lt;looslycoupled{Payment.java[Payment" modifiers="513" timestamp="1692772855931"/>
+    <typeInfo handle="=userdefinedexception/F:\/softwares\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1637836373418"/>
+    <typeInfo handle="=cms/src&lt;storage{CollegeStorage.java[CollegeStorage" modifiers="513" timestamp="1692857895024"/>
 </typeInfoHistroy>

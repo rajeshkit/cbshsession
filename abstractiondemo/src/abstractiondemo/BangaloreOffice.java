@@ -14,4 +14,10 @@ public class BangaloreOffice implements IHeadOffice{
 		
 	}
 
+	@Override
+	public void sleep() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

@@ -1,5 +1,0 @@
-package in.hsbc.dao;
-
-public interface CustomerDao {
-
-}
