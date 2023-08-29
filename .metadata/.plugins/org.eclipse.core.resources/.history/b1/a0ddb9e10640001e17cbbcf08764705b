@@ -1,7 +1,0 @@
-
-public class Showroom {
-	public static void main(String[] args) {
-		String car1= "101,Innova,200000";
-		String[] s = car1.split(",");
-	}
-}

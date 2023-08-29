@@ -1,6 +1,7 @@
 package exception;
 
 import java.io.Closeable;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -18,8 +19,7 @@ public class Demo {
 		
 		
 		try(Scanner s=new Scanner(System.in);
-				FileReader fr=new FileReader("c:/users/demo.txt");
-				FileInputStream fi=new FileInputStream("");) {
+				FileInputStream fi=new FileInputStream("E:/trainer1.txt");) {
 			int divider=s.nextInt();
 			int index = s.nextInt();
 			int total = 100 / divider;
@@ -28,8 +28,8 @@ public class Demo {
 			System.out.println(k[index]);
 			String str="jhfgjfh";
 			str.substring(0);
-		}catch(ArithmeticException | ArrayIndexOutOfBoundsException | 
-				NullPointerException | FileNotFoundException e) {
+		}catch( ArrayIndexOutOfBoundsException | 
+				NullPointerException e) {
 			e.printStackTrace();
 		}
 		System.out.println("line8");

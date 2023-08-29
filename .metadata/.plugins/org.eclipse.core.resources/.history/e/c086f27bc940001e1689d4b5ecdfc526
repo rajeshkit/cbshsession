@@ -1,5 +1,0 @@
-package interfaceasacontract;
-
-public interface Inventory {
-
-}

@@ -1,8 +1,0 @@
-package interfaceasacontract;
-
-public class Main {
-	public static void main(String[] args) {
-		InventoryImplementation iv=new InventoryImplementation();
-	}
-
-}

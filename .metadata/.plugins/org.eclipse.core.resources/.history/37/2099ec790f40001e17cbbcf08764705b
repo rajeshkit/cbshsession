@@ -1,9 +1,0 @@
-package polymorphismdemo;
-
-public class Area {
-	public int findArea(int length, int bredth){ //overridden
-		return length*bredth; // implementation1
-	}
-	
-
-}

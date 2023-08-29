@@ -1,7 +1,0 @@
-package in.hsbc.card;
-
-public class CreditCard {
-	public static void main(String[] args) {
-		
-	}
-}

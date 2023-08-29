@@ -1,7 +1,0 @@
-package abstractiondemo;
-
-public interface Human{
-	int a=45;
-	public void doTask();
-	public void sleep();
-}

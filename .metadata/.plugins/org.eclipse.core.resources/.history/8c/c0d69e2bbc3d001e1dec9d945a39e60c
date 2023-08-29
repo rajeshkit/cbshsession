@@ -1,8 +1,0 @@
-
-public class Player {
-	int playerId=353;
-	String playerName="Dhoni";
-	
-	
-
-}

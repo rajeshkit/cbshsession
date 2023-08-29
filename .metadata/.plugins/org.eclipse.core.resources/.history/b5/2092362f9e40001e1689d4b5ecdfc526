@@ -1,6 +1,0 @@
-package abstractiondemo;
-
-public interface Human {
-	public void doTaskrt();
-	public void sleeprtr();
-}

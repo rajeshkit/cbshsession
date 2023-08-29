@@ -1,9 +1,0 @@
-package in.hsbc.account;
-
-public class SavingAccount {
-	int accountNumber;
-	String name;
-	void displayProfile() {
-		System.out.println("Profile displayed");
-	}
-}

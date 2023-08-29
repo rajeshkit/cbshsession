@@ -1,9 +1,0 @@
-package demo1;
-
-public class Sample {
-	public static void main(String args[]) {
-		int no1 = 200;
-		int no2 = dfg; //add two number
-	}
-
-}
