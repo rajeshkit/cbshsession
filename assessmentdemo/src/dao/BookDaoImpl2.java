@@ -1,8 +1,6 @@
 package dao;
 
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 import entity.Book;
@@ -30,7 +28,7 @@ public class BookDaoImpl2 implements BookDao {
 	public Book findByBookId(Integer bookId) throws NoBookAvailable {
 		Book b=null;
 		for (Book book : bookList) {
-		if(book.getBookId()==bookId) {
+		if(book.getBookId().equals(bookId)) {
 			b=book;
 			return b;
 		}

@@ -27,7 +27,7 @@ public class BookDaoImpl1 implements BookDao{
 	public Book findByBookId(Integer bookId) throws NoBookAvailable {
 		Book b=null;
 		for (Book book : bookList) {
-			if(book.getBookId()==bookId) {
+			if(book.getBookId().equals(bookId)) {
 				b=book;
 				return b;
 			}
