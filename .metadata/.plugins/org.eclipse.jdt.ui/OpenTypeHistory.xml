@@ -13,4 +13,6 @@
     <typeInfo handle="=collectionsdemo/F:\/softwares\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(Comparator.class[Comparator" modifiers="1537" timestamp="1637836373418"/>
     <typeInfo handle="=userdefinedexception/F:\/softwares\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1637836373418"/>
     <typeInfo handle="=pizzaapplication/src&lt;dao{PizzaStoreDao.java[PizzaStoreDao" modifiers="513" timestamp="1693298230435"/>
+    <typeInfo handle="=assessmentdemo/src&lt;dao{BookDao.java[BookDao" modifiers="513" timestamp="1693378368910"/>
+    <typeInfo handle="=assessmentdemo/src&lt;service{BookService.java[BookService" modifiers="513" timestamp="1693377901634"/>
 </typeInfoHistroy>

@@ -84,6 +84,7 @@ public class PizzaStoreDaoImpl implements PizzaStoreDao {
 		try {
 			con = DriverManager.getConnection(url, username, password);
 			pstmt=con.prepareStatement("SELECT * FROM pizza");
+			
 			ResultSet rs=pstmt.executeQuery();
 			/*
 +----------+------------+------+---------------+

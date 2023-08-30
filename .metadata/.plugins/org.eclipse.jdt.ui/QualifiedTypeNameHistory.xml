@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="pkg1.Print"/>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
-    <fullyQualifiedTypeName name="java.util.Collection"/>
-    <fullyQualifiedTypeName name="java.util.Set"/>
-    <fullyQualifiedTypeName name="java.util.Vector"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.util.LinkedList"/>
-    <fullyQualifiedTypeName name="collectionsdemo.SortName"/>
-    <fullyQualifiedTypeName name="collectionsdemo.SortTraineeId"/>
-    <fullyQualifiedTypeName name="collectionsdemo.SortRating"/>
-    <fullyQualifiedTypeName name="collectionsdemo.TraineeIdComparator"/>
-    <fullyQualifiedTypeName name="collectionsdemo.TraineeNameComparator"/>
     <fullyQualifiedTypeName name="storage.TransportStorageImplIdComparator"/>
     <fullyQualifiedTypeName name="storage.TransportStorageImplCostComparator"/>
     <fullyQualifiedTypeName name="java.lang.Process"/>
@@ -30,7 +18,6 @@
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="java.util.TreeSet"/>
     <fullyQualifiedTypeName name="collectionsdemo.TraineeRatingComparator"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="collectionsdemo.Trainee"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
@@ -42,7 +29,6 @@
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="exception.PizzaNotAddedException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="service.PizzaStoreService"/>
@@ -51,13 +37,27 @@
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
     <fullyQualifiedTypeName name="exception.PizzaIdNotFoundException"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="dao.PizzaStoreDaoImpl"/>
     <fullyQualifiedTypeName name="dao.PizzaStoreDaoImpl1"/>
     <fullyQualifiedTypeName name="view.PizzaStoreFactory"/>
     <fullyQualifiedTypeName name="entity.Pizza"/>
     <fullyQualifiedTypeName name="dao.PizzaStoreDao"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSetMetaData"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.rmi.NotBoundException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="exception.NoBookAvailable"/>
+    <fullyQualifiedTypeName name="entity.Book"/>
+    <fullyQualifiedTypeName name="service.BookServiceImpl"/>
+    <fullyQualifiedTypeName name="dao.BookDaoImpl1"/>
+    <fullyQualifiedTypeName name="dao.BookDaoImpl2"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="view.BookFactory"/>
+    <fullyQualifiedTypeName name="dao.BookDao"/>
+    <fullyQualifiedTypeName name="exception.BookIdNotFoundException"/>
 </qualifiedTypeNameHistroy>

@@ -3,6 +3,7 @@ package map;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map.Entry;
+import java.util.Scanner;
 
 import collectionsdemo.Trainee;
 
@@ -30,11 +31,19 @@ public class HashMapDemo {
 		for (String st : mapList.values()) {
 			System.out.println(st);
 		}
-		Trainee t1=new Trainee(12,"454",4);
-		Trainee t2=new Trainee(24,"67",4);
+		Scanner s=new Scanner(System.in);
+		int id=s.nextInt();
+		String name=s.nextLine();
+		int cost=s.nextInt();
+		Trainee t1=new Trainee(id,name,cost);
+		Trainee t2=new Trainee();
+		t2.setTraineeId(id);
+		t2.setTraineeName(name);
+		t2.setRating(cost);
 		HashMap<Integer,Trainee> h=new HashMap<>();
-		h.put(35465, t1);
-		h.put(34434, t2);
+		h.put(t1.getTraineeId(), t1);
+		
+		h.put(t2.getTraineeId(), t2);
 		for (Entry<Integer,Trainee> e : h.entrySet()) {
 			System.out.println(e.getKey());
 			System.out.println(e.getValue());
