@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Registration Form</h1>
+    <form onsubmit="return validation()">
+            <label>Username:</label>    
+            <input type="text" name="name" id="name" placeholder="Enter username">
+            </br></br>
+            <label>Age:</label>
+            <input type="number" id="age" name="age" placeholder="Age">
+            </br></br>
+            <label>Enter Password</label>
+            <input type="password" id="pass" name="password" placeholder="password">
+            </br></br>
+            <label>Confirm Password</label>
+            <input type="password" name="confimpassword" placeholder="confirm password">
+            </br></br>
+            <label>Gender:</label>
+            <input type="radio" name="gender">Male
+            <input type="radio" name="gender">Female
+            </br></br>
+            <label>Location:</label>
+            <input type="checkbox" name="city">Hyderabad
+            <input type="checkbox" name="city">Pune
+            <input type="checkbox" name="city">Chennai
+            </br></br>
+            <label>Dob:</label>
+            <input type="date" name="dob">
+            </br></br>
+            <label>Role:</label>
+            <select>
+                <option>select role</option>
+                <option>Developer</option>
+                <option>Trainee</option>
+                <option>Sr.Developer</option>
+                <option>Manager</option>
+            </select>
+            </br></br>
+            <label>Address:</label>
+            <textarea name="address"></textarea>
+            </br></br>
+            <input type="submit">
+            <input type="reset">
+                        
+    </form>
+    <script>
+        function validation(){
+            var n = document.querySelector('#name').value;
+            var a = document.querySelector('#age').value;
+           if(n==""){
+                alert('name field is shpuld not be empty');
+                return false;
+            }
+            if(a==""){
+                alert('Enter the age');
+                return false;
+            }
+           return true;
+        }
+    </script>
+</body>
+</html>

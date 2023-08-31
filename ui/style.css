@@ -1,0 +1,16 @@
+h1{ 
+    color:rgb(61, 42, 165);
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+p{ color:red;}
+.topic {
+    color:red;
+    background-color: black;
+}
+.error{
+    text-decoration: underline;
+}
+#para1{
+    color: blueviolet;
+}

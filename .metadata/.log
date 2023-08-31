@@ -5961,3 +5961,15 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-30 14:25:21.801
 !MESSAGE executing callback sts4.classpath.lighAFgU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-30 15:05:43.761
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.lighAFgU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-30 15:05:43.763
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.lighAFgU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-30 15:05:43.766
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-30 15:05:43.767
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.lighAFgU => OK

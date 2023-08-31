@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <style>
+        .display{
+            background-color: aliceblue;
+            color: blue;
+            font-size: larger;
+        }
+        .display1{
+            background-color: red;
+            color: white;
+            font-size: 4em;
+        }
+   </style>
+</head>
+<body>
+    <h1 class="display">Hsbc Technologies</h1>
+    <p class="imp">Lorem </p>
+    <h1>Hyderabad</h1>
+    <button class="imp" onclick="message()">click</button>
+    
+    <script>
+        function message(){
+            var x = document.querySelectorAll('.imp');
+            x[1].innerText='Tr-4 associates';
+            x[1].className="display1";  
+                 
+            
+        }
+
+   </script>
+</body>
+</html>
