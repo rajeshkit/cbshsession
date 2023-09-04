@@ -7,4 +7,8 @@ public class AutoSave extends Thread {
 			System.out.println("Auto Save");
 		}
 	}
+	public static void main(String[] args) {
+		AutoSave as=new AutoSave();
+		as.start();
+	}
 }

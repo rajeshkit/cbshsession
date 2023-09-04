@@ -9,11 +9,14 @@ public class ThreadDemo2 implements Runnable{
 		
 	}
 	public static void main(String[] args) {
-		Runnable r=new ThreadDemo2();// type of Runnable
-		Thread t1=new Thread(r);
+		ThreadDemo2 td2=new ThreadDemo2();
+		Thread t1 = new Thread(td2);	
 		t1.start();
-		Thread t2=new Thread(r);
-		t2.start();
+//		Runnable r=new ThreadDemo2();// type of Runnable
+//		Thread t1=new Thread(r);
+//		t1.start();
+//		Thread t2=new Thread(r);
+//		t2.start();
 		
 		//new ThreadDemo2();	// type of runnable
 //		System.out.println(Thread.currentThread().getName());

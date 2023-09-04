@@ -5,13 +5,7 @@
     <typeInfo handle="=layeredarchitecturehandson/src&lt;storage{Storage.java[Storage" modifiers="513" timestamp="1692856076937"/>
     <typeInfo handle="=looslycoupled/src&lt;looslycoupled{Payment.java[Payment" modifiers="513" timestamp="1692772855931"/>
     <typeInfo handle="=cms/src&lt;storage{CollegeStorage.java[CollegeStorage" modifiers="513" timestamp="1692857895024"/>
-    <typeInfo handle="=threadingdemo/F:\/softwares\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.lang(Thread.class[Thread" modifiers="33" timestamp="1637836373418"/>
-    <typeInfo handle="=threadingdemo/F:\/softwares\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1637836373418"/>
-    <typeInfo handle="=handson/F:\/softwares\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.xml.crypto=/module=/true=/&lt;javax.xml.crypto.dsig.spec(TransformParameterSpec.class[TransformParameterSpec" modifiers="1537" timestamp="1637836373418"/>
-    <typeInfo handle="=handson/F:\/softwares\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.desktop=/module=/true=/&lt;javax.sound.midi(Transmitter.class[Transmitter" modifiers="1537" timestamp="1637836373418"/>
     <typeInfo handle="=handson/src&lt;storage{TransportStorage.java[TransportStorage" modifiers="513" timestamp="1693211594824"/>
-    <typeInfo handle="=collectionsdemo/F:\/softwares\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(Comparator.class[Comparator" modifiers="1537" timestamp="1637836373418"/>
-    <typeInfo handle="=userdefinedexception/F:\/softwares\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1637836373418"/>
     <typeInfo handle="=pizzaapplication/src&lt;dao{PizzaStoreDao.java[PizzaStoreDao" modifiers="513" timestamp="1693298230435"/>
     <typeInfo handle="=assessmentdemo/src&lt;dao{BookDao.java[BookDao" modifiers="513" timestamp="1693378368910"/>
     <typeInfo handle="=assessmentdemo/src&lt;service{BookService.java[BookService" modifiers="513" timestamp="1693377901634"/>

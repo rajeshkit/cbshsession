@@ -6,12 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    
 </head>
 <body>
     <h1>Registration Form</h1>
     <form onsubmit="return validation()">
             <label>Username:</label>    
             <input type="text" name="name" id="name" placeholder="Enter username">
+            <span id="nameerror"></span>
             </br></br>
             <label>Age:</label>
             <input type="number" id="age" name="age" placeholder="Age">
@@ -35,7 +37,7 @@
             <input type="date" name="dob">
             </br></br>
             <label>Role:</label>
-            <select>
+            <select id="email">
                 <option>select role</option>
                 <option>Developer</option>
                 <option>Trainee</option>
@@ -54,9 +56,13 @@
         function validation(){
             var n = document.querySelector('#name').value;
             var a = document.querySelector('#age').value;
+            var nameerror = document.querySelector("#nameerror");
            if(n==""){
-                alert('name field is shpuld not be empty');
+               nameerror.innerHTML="name field is should not be empty";
+               nameerror.className="error";
                 return false;
+            }else{
+                nameerror.innerHTML="";
             }
             if(a==""){
                 alert('Enter the age');

@@ -9,7 +9,7 @@ p{ color:red;}
     background-color: black;
 }
 .error{
-    text-decoration: underline;
+   color: red;
 }
 #para1{
     color: blueviolet;
